@@ -17,7 +17,7 @@ El videojuego utilizado como ejemplo es PUBG Battlegrounds.
 Requisito: tener instalado Node.js en el equipo.
 Para comprobar la instalación: node --version
 
-- PARA index.js
+- Para index.js
 Desde la consola o terminal ejecutar: "node index.js"
 
 También se puede indicar un nombre como argumento: "node index.js Marcos"
@@ -121,7 +121,7 @@ La carpeta de salida se crea utilizando node:path para construir las rutas y nod
 
 
 ## Estructura del Proyecto
-
+```text
 TP1/ 
 ├── salida/ 
 │   └── ficha-videojuego.txt 
@@ -129,3 +129,4 @@ TP1/
 ├── index.js
 ├── orden-event-loop.js
 └── README.md
+```
