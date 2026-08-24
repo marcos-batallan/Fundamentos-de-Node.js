@@ -1,0 +1,9 @@
+
+FICHA DEL VIDEOJUEGO
+=========================
+Título: PUBG Battlegrounds
+Desarrollador: PUBG Studios (KRAFTON, Inc.)
+Fecha de Lanzamiento: 2017
+Géneros: Battle Royale, Supervivencia, Shooter
+Plataformas: PC, PlayStation, Xbox, iOS, Andriod
+Multijugador: Sí
